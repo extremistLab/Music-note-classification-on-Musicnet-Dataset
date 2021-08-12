@@ -1,0 +1,9 @@
+Milestone: Identify the notes performed at specific times in a recording.
+Method:
+Given a music file identify which note is performed at specific times.
+The music file is taken as input.
+The music frames are fetched and read.
+The time domain music file is converted to frequency domain by Fourier transform.
+The frequencies are given corresponding note values.
+The  corresponding note values are returned.
+The output  is given as a data frame of notes at a particular time.
