@@ -1,0 +1,8 @@
+﻿MILESTONES:
+
+
+* Identify the notes performed at specific times in a recording.
+* Classify the instruments that perform in a recording.
+* Classify the composer of a recording.
+* Identify precise onset times of the notes in a recording.
+* Predict the next note in a recording, conditioned on history.
