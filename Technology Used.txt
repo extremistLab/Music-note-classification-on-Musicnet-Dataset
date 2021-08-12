@@ -1,0 +1,21 @@
+﻿TECHNOLOGIES USED:
+
+
+* Programming Language
+*  Python 3.8.5
+
+
+* Libraries Used
+*  Numpy
+*  Pandas
+*  Scikit Learn
+*  Librosa 
+*  Pydub
+*  Tensorflow – Keras
+* Streamlit
+
+
+* Approaches
+*  Music Feature Extraction 
+*  ML Classification Techniques
+*  Deep Learning
