@@ -1,5 +1,4 @@
-﻿MILESTONES:
-
+** MILESTONES **
 
 * Identify the notes performed at specific times in a recording.
 * Classify the instruments that perform in a recording.
